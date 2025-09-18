@@ -27,7 +27,7 @@ public class Escola_notas {
 		
 		System.out.println("\n--------DADOS DO ALUNO-------");
 		System.out.println("Nome: " + aluno);
-		System.out.println("Nome do professor: " + aluno);
+		System.out.println("Nome do professor: " + professor);
 		System.out.println("Nota do primeiro semestre: " + nota1);
 		System.out.println("Nota do segundo semestre: " + nota2);
 		System.out.println("Media do aluno: " + media);
@@ -35,4 +35,5 @@ public class Escola_notas {
 		sc.close();
 	}
 }
+
 
